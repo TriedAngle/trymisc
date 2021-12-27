@@ -1,0 +1,11 @@
+import
+  ./trymisc/math/algebra,
+  ./trymisc/math/salgebra,
+  ./trymisc/math/utils,
+  ./trymisc/math,
+  ./trymisc/data/random,
+  ./trymisc/gfx/color,
+  ./trymisc/gfx/plotting,
+  ./trymisc/sequtils,
+  ./trymisc/constructor,
+  ./trymisc/data
